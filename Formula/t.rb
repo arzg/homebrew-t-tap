@@ -6,6 +6,6 @@ class T < Formula
     version "0.2.0"
 
     def install
-      bin.install "t"
+      bin.install "release/t"
     end
   end
